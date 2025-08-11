@@ -24,8 +24,8 @@ Le dataset ressemble aux captures ci-dessus : une feuille « lexique » (paires 
 
 ## Avant de commencer
 Merci de **lire attentivement** les deux documents PDF ci-joints (réf. éthique **2025/1116**) :
-1. [*Information Sheet for Adult Participants or Parents-Guardians*]()
-2. [*Consent Form for Participants*](Consent\ Form.pdf)
+1. [*Information Sheet for Adult Participants or Parents-Guardians*](https://github.com/greateden/Verlan-Annotation/blob/main/Info%20Sheet.pdf)
+2. [*Consent Form for Participants*](https://github.com/greateden/Verlan-Annotation/blob/main/Consent%20Form.pdf)
 
 ## Comment participer
 1. **Signez** le *Consent Form* (signature manuscrite ou électronique).  
